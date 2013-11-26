@@ -3,6 +3,5 @@ wiki
 
 wiki docuements
 
-* [30 day challenge](30 day challenge)
-* 
+## [KobiKun's Wiki page](https://github.com/kobikun/wiki/wiki/KobiKun-Wiki-Page)
 
