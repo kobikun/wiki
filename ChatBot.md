@@ -4,3 +4,4 @@
 
 # Articles
 * [대화형 챗봇 설계의 과제](https://gist.github.com/haje01/7fc9d1b1fc1b6c8c9b7918abf5407a86)
+* [혼자 힘으로 한국어 챗봇 개발하기](http://exagen.tistory.com/notice/63)
