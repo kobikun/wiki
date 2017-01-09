@@ -3,6 +3,11 @@
  * 사용자가 웹사이트나 앱을 따로 실행하지 않아도, 대화를 통해 정보를 얻을 수 있는 서비스
 * Why Chatbot?
 
+# Corpus
+
+## English
+* [Ubuntu set](https://github.com/rkadlec/ubuntu-ranking-dataset-creator)
+
 # Papers
 
 ### [A Neural Convesational Model](https://arxiv.org/pdf/1506.05869v3.pdf)
