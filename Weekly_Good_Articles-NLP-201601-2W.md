@@ -13,6 +13,10 @@ word2vec is not a single task or algorithm; popular ones are:
 ...
 ```
 
+### [챗봇의 구조: 챗봇은 AI가 필요한가?](https://brunch.co.kr/@gentlepie/7)
+* 챗봇 형태에는 `닫
+
+
 ## ETCs
 
 ### [소프트웨어를 진로로 선택한 자녀를 둔 학부모와의 대화](http://hl1itj.tistory.com/146)
