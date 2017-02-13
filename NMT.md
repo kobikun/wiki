@@ -23,6 +23,15 @@ This page is for Neural Machine Translation (NMT) Research-related.
  * senrich
  * based on the dl4mt-tutorial by Kyunghyun Cho
  * python theano
+
+* [ByteNet](https://github.com/buriburisuri/ByteNet/blob/master/README.md)
+ * ByteNet - Fast Neural Machine Translation
+ * A tensorflow implementation of French-to-English machine translation using DeepMind's ByteNet from the paper Nal et al's Neural Machine Translation in Linear Time. 
+
+* [Seq2Seq Translation using PyTorch](https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb)
+ * ipython notebook
+ * Practical PyTorch: Translation with a Sequence to Sequence Network and Attention
+
 ## Tutorial
 * [MTMA16-Neural Machine Translation](http://statmt.org/mtma16/uploads/mtma16-neural.pdf)
 
