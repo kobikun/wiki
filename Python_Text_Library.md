@@ -46,5 +46,6 @@
 ## ETC
 
 * awesome-python
+  * https://awesome-python.com/
   * https://github.com/vinta/awesome-python
 
