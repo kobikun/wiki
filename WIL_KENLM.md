@@ -7,6 +7,7 @@
 # max-order setting
 
 * kenlm's default max-order is 6 (6 gram)
+* case for 10 gram
 
 ## C++
 
